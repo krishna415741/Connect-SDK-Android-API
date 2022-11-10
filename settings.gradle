@@ -1,0 +1,3 @@
+rootProject.name = 'Connect SDK Sampler'
+include ':app'
+

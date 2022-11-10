@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Connect_SDK_Sampler.iml" filepath="$PROJECT_DIR$/.idea/modules/Connect_SDK_Sampler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Connect_SDK_Sampler.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Connect_SDK_Sampler.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Connect_SDK_Sampler.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Connect_SDK_Sampler.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Connect_SDK_Sampler.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Connect_SDK_Sampler.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Connect_SDK_Sampler.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Connect_SDK_Sampler.unitTest.iml" />
+    </modules>
+  </component>
+</project>
